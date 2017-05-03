@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Simone Donohue</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 17:55:20 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://simonedonohue.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Portfolio</title>
-      <link>http://simonedonohue.com/portfolio/</link>
-      <pubDate>Fri, 21 Apr 2017 17:55:20 +1000</pubDate>
-      
-      <guid>http://simonedonohue.com/portfolio/</guid>
-      <description>Denham Psycho, Production Assistant
- Denham Psycho Making Of from Flickering Wall on Vimeo.</description>
-    </item>
     
     <item>
       <title>Denham Psycho</title>
@@ -28,7 +18,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>http://simonedonohue.com/portfolio/denim-psycho/</guid>
-      <description>&lt;p&gt;Production Assistant / BTS Co-Videographer
+      <description>&lt;p&gt;Production Assistant / BTS
 &lt;/p&gt;</description>
     </item>
     
@@ -69,6 +59,36 @@
       
       <guid>http://simonedonohue.com/portfolio/samsung-unpacking/</guid>
       <description>&lt;p&gt;Editor
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://simonedonohue.com/portfolio/</link>
+      <pubDate>Fri, 21 Apr 2017 17:55:20 +1000</pubDate>
+      
+      <guid>http://simonedonohue.com/portfolio/</guid>
+      <description>Denham Psycho, Production Assistant
+ Denham Psycho Making Of from Flickering Wall on Vimeo.</description>
+    </item>
+    
+    <item>
+      <title>Fearless Trailer</title>
+      <link>http://simonedonohue.com/portfolio/fearless-trailer/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://simonedonohue.com/portfolio/fearless-trailer/</guid>
+      <description>&lt;p&gt;Editor
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smirnoff Freshers Week</title>
+      <link>http://simonedonohue.com/portfolio/smirnoff-freshers/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://simonedonohue.com/portfolio/smirnoff-freshers/</guid>
+      <description>&lt;p&gt;Videographer / Editor
 &lt;/p&gt;</description>
     </item>
     
