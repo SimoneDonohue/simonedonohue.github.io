@@ -1,68 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Simone Donohue</title>
-    <link>http://simonedonohue.com/portfolio/</link>
+    <link>https://simonedonohue.com/portfolio/</link>
     <description>Recent content in Portfolios on Simone Donohue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
-    
-	<atom:link href="http://simonedonohue.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://simonedonohue.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Denham Psycho</title>
-      <link>http://simonedonohue.com/portfolio/denim-psycho/</link>
+      <link>https://simonedonohue.com/portfolio/denim-psycho/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/denim-psycho/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/denim-psycho/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Google Home Mini</title>
-      <link>http://simonedonohue.com/portfolio/google-home-mini/</link>
+      <link>https://simonedonohue.com/portfolio/google-home-mini/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/google-home-mini/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/google-home-mini/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Intimissimi The Bra Twist BTS</title>
-      <link>http://simonedonohue.com/portfolio/intimissimi/</link>
+      <link>https://simonedonohue.com/portfolio/intimissimi/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/intimissimi/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/intimissimi/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Samsung Unpacking, Cannes Awards Film</title>
-      <link>http://simonedonohue.com/portfolio/samsung-unpacking/</link>
+      <link>https://simonedonohue.com/portfolio/samsung-unpacking/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/samsung-unpacking/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/samsung-unpacking/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Fearless Trailer</title>
-      <link>http://simonedonohue.com/portfolio/fearless-trailer/</link>
+      <link>https://simonedonohue.com/portfolio/fearless-trailer/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/fearless-trailer/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/fearless-trailer/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Smirnoff Freshers Week</title>
-      <link>http://simonedonohue.com/portfolio/smirnoff-freshers/</link>
+      <link>https://simonedonohue.com/portfolio/smirnoff-freshers/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/smirnoff-freshers/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://simonedonohue.com/portfolio/smirnoff-freshers/</guid>
+      <description></description>
     </item>
     
   </channel>

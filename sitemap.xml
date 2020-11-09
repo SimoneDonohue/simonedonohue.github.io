@@ -1,92 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/denim-psycho/</loc>
+    <loc>https://simonedonohue.com/portfolio/denim-psycho/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/google-home-mini/</loc>
+    <loc>https://simonedonohue.com/portfolio/google-home-mini/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/intimissimi/</loc>
+    <loc>https://simonedonohue.com/portfolio/intimissimi/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/samsung-unpacking/</loc>
+    <loc>https://simonedonohue.com/portfolio/samsung-unpacking/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/</loc>
+    <loc>https://simonedonohue.com/categories/</loc>
     <lastmod>2017-04-21T17:55:20+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/contact/</loc>
+    <loc>https://simonedonohue.com/tags/development/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/categories/development/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/categories/golang/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/tags/golang/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/portfolio/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/tags/</loc>
+    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simonedonohue.com/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/fearless-trailer/</loc>
+    <loc>https://simonedonohue.com/portfolio/fearless-trailer/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/portfolio/smirnoff-freshers/</loc>
+    <loc>https://simonedonohue.com/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://simonedonohue.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/tags/development/</loc>
-    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/categories/development/</loc>
-    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/tags/golang/</loc>
-    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/categories/golang/</loc>
-    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/portfolio/</loc>
+    <loc>https://simonedonohue.com/portfolio/smirnoff-freshers/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simonedonohue.com/tags/</loc>
-    <lastmod>2017-04-21T17:55:20+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

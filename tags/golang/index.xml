@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Simone Donohue</title>
-    <link>http://simonedonohue.com/tags/golang/</link>
-    <description>Recent content in Golang on Simone Donohue</description>
+    <title>golang on Simone Donohue</title>
+    <link>https://simonedonohue.com/tags/golang/</link>
+    <description>Recent content in golang on Simone Donohue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 17:55:20 +1000</lastBuildDate>
-    
-	<atom:link href="http://simonedonohue.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 21 Apr 2017 17:55:20 +1000</lastBuildDate><atom:link href="https://simonedonohue.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>http://simonedonohue.com/portfolio/</link>
+      <link>https://simonedonohue.com/portfolio/</link>
       <pubDate>Fri, 21 Apr 2017 17:55:20 +1000</pubDate>
       
-      <guid>http://simonedonohue.com/portfolio/</guid>
-      <description>Denham Psycho, Production Assistant
- Denham Psycho Making Of from Flickering Wall on Vimeo.</description>
+      <guid>https://simonedonohue.com/portfolio/</guid>
+      <description>Denham Psycho, Production Assistant</description>
     </item>
     
   </channel>
